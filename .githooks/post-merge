@@ -1,0 +1,4 @@
+#!/bin/sh
+touch update
+npm i
+rm -f update

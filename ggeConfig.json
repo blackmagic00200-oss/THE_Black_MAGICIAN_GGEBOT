@@ -4,9 +4,9 @@
     "privateKey" : "",
     "cert" : "",
     "signupToken" : "",
-    "discordToken" : "",
-    "discordClientId" : "",
-    "discordClientSecret" : "",
+    "discordToken" : "${discordToken}",
+    "discordClientId" : "${discordClientId}",
+    "discordClientSecret" : "${discordClientSecret}",
     "timeoutMultiplier" : 1,
     "secondsTillRestartBot": 10,
     "debug" : false

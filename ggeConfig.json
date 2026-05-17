@@ -4,7 +4,7 @@
     "privateKey" : "",
     "cert" : "",
     "signupToken" : "",
-    "discordToken" : "${discordToken}",
+    "discordToken" : "${DISCORD_TOKEN}",
     "discordClientId" : "${discordClientId}",
     "discordClientSecret" : "${discordClientSecret}",
     "timeoutMultiplier" : 1,
